@@ -1,10 +1,10 @@
 {
-  "title": "Ter",
-  "description": "A tiny wiki-style site builder with Zettelkasten flavor",
-  "url": "https://ter.kkga.me/",
-  "authorName": "Gadzhi Kharkharov",
-  "authorEmail": "x@kkga.me",
-  "authorUrl": "https://kkga.me/",
-  "head": "<script async src='https://poetic-tortoise.pikapod.net/script.js' data-website-id='fca5dc55-8ee2-4abf-8f49-38eb94c49a98'></script>",
+  "title": "Trg",
+  "description": "A place where relations cross.",
+  "url": "https://trg.deno.dev/",
+  "authorName": "yala",
+  "authorEmail": "",
+  "authorUrl": "https://almereyda.de/",
+  "head": "",
   "codeHighlight": true
 }
